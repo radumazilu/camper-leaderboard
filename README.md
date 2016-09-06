@@ -3,7 +3,7 @@ Project built: https://www.freecodecamp.com/challenges/build-a-camper-leaderboar
 
 
 <h2>Live App</h2>
-See the full React app at http://codepen.io/pen/
+See the full React app at http://codepen.io/radumazilu/pen/RGNzbj
 
 
 <h2>User Stories</h2>
